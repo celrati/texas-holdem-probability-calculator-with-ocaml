@@ -1,0 +1,5 @@
+
+
+pour essayer taper ./compute [nom_fichier]
+pour compiler le code_source ocamlopt -o [fich] read_file.ml
+
